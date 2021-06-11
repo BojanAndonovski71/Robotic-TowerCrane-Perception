@@ -1,0 +1,4 @@
+/home/admini/Depth-Outdoor/CMakeFiles/edit_cache.dir
+/home/admini/Depth-Outdoor/CMakeFiles/rebuild_cache.dir
+/home/admini/Depth-Outdoor/CMakeFiles/SGBMathcing.dir
+/home/admini/Depth-Outdoor/CMakeFiles/DepthMap.dir
